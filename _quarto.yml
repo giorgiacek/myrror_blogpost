@@ -1,5 +1,5 @@
 project:
   title: "myrror_wb_blogpost"
+  output-dir: docs
 
-editor: visual
 
